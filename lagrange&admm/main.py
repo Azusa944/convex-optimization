@@ -8,4 +8,4 @@ if __name__ == "__main__":
     print("初始解处梯度向量为" + str(g_fun(var_x)))
     gradient_descent(var_x)
     print("最优点处函数梯度向量为" + str(g_fun(var_x)))
-
+    # hhh
